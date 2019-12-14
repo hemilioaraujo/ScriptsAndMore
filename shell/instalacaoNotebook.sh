@@ -9,14 +9,14 @@ sudo apt-get install vlc;
 # ADICIONA REPOSITÓRIO ATOM
 sudo add-apt-repository ppa:webupd8team/atom;
 sudo apt-get update;
-# INSTALA ATOM
-sudo apt-get install atom;
 # INSTALA SNAP
 sudo apt-get install snap;
 # PYCHARM PELO SNAP
 sudo snap install pycharm-community --classic;
 # VISUAL STUDIO CODE PELO SNAP
 sudo snap install code --classic;
+# INSTALA ATOM
+sudo snap install atom;
 # ADICIONAR REPOSITÓRIO UMAKE
 sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make;
 sudo apt-get update;
