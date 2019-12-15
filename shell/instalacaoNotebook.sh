@@ -6,9 +6,6 @@ sudo apt-get install;
 sudo apt-get install ttf-mscorefonts-installer;
 # INSTALA VLC
 sudo apt-get install vlc;
-# ADICIONA REPOSITÓRIO ATOM
-sudo add-apt-repository ppa:webupd8team/atom;
-sudo apt-get update;
 # INSTALA SNAP
 sudo apt-get install snap;
 # PYCHARM PELO SNAP
@@ -23,6 +20,8 @@ sudo apt-get update;
 sudo apt-get install ubuntu-make;
 # ARDUINO PELO UMAKE
 sudo umake ide arduino;
+# INSTALLA IPYTHON
+sudo apt-get install ipython3;
 # TKINTER
 sudo apt-get install python3-tk;
 # ATUALIZA O PIP

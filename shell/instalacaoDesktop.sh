@@ -5,9 +5,6 @@ sudo apt-get install;
 sudo apt-get install ttf-mscorefonts-installer;
 # INSTALA VLC
 sudo apt-get install vlc;
-# ADICIONA REPOSITÓRIO ATOM
-sudo add-apt-repository ppa:webupd8team/atom;
-sudo apt-get update;
 # INSTALA SNAP
 sudo apt-get install snap;
 # PYCHARM PELO SNAP
@@ -16,6 +13,8 @@ sudo snap install pycharm-community --classic;
 sudo snap install code --classic;
 # INSTALA ATOM
 sudo snap install atom;
+# INSTALA IPYTHON
+sudo apt-get install ipython3;
 # ATUALIZA O PIP
 pip3 install --upgrade pip;
 # KDENLIVE
