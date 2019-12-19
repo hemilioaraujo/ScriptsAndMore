@@ -22,3 +22,6 @@ sudo echo "alias gitf='git fetch';" >> "/etc/bash.bashrc";
 sudo echo "alias gits='git status';" >> "/etc/bash.bashrc";
 sudo echo "alias gita='git add';" >> "/etc/bash.bashrc";
 sudo echo "alias gitck='git checkout';" >> "/etc/bash.bashrc";
+
+# ALIAS DJANGO/PYTHON
+sudo echo "alias pymg='python manage.py';" >> "/etc/bash.bashrc";
