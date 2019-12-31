@@ -40,6 +40,10 @@ sudo apt-get install oracle-java8-installer;
 sudo apt-get install telegram-desktop;
 # ZOOM - vídeo conferência
 sudo apt-get install zoom;
+#INSTALAR WoeUSB - CRIADOR PENDRIVE BOOTAVEL WINDOWS
+sudo add-apt-repository ppa:nilarimogard/webupd8 -y;
+sudo apt-get update;
+sudo apt-get install woeusb -y;
 # REMOVENDO PACOTES DESNECESSÁRIOS
 sudo apt-get autoremove;
 # REINICIA
