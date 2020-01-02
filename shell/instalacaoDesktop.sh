@@ -36,6 +36,8 @@ sudo apt-get install gimp;
 sudo add-apt-repository ppa:webupd8team/java;
 sudo apt-get update;
 sudo apt-get install oracle-java8-installer;
+# INSTALAR CODECS DE MÍDIA
+sudo apt-get install ubuntu-restricted-extras;
 # TELEGRAM
 sudo apt-get install telegram-desktop;
 # ZOOM - vídeo conferência
