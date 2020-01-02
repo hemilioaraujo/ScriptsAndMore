@@ -45,8 +45,10 @@ sudo apt-get install gimp;
 sudo add-apt-repository ppa:webupd8team/java;
 sudo apt-get update;
 sudo apt-get install oracle-java8-installer;
-# INSTALAR CODECS DE MÍDIA
+# CODECS DE MÍDIA
 sudo apt-get install ubuntu-restricted-extras;
+# UBUNTU TWEAK
+sudo apt install gnome-tweak-tool;
 # PACOTES E GERENCIADORES BLUETOOTH
 sudo apt-get install bluetooth bluez bluez-tools rfkill -y;
 sudo apt-get install blueman -y && blueman-manager;
