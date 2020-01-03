@@ -42,9 +42,10 @@ sudo apt-get install unrar;
 # GIMP
 sudo apt-get install gimp;
 # JAVA
-sudo add-apt-repository ppa:webupd8team/java;
-sudo apt-get update;
-sudo apt-get install oracle-java8-installer;
+sudo add-apt-repository ppa:linuxuprising/java;
+sudo apt update;
+sudo apt install oracle-java13-installer;
+sudo apt install oracle-java13-set-default;
 # CODECS DE MÍDIA
 sudo apt-get install ubuntu-restricted-extras;
 # UBUNTU TWEAK
