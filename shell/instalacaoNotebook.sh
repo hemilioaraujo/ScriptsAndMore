@@ -26,8 +26,6 @@ sudo apt-get install ipython3;
 sudo apt-get install python3-tk;
 # ATUALIZA O PIP
 pip3 install --upgrade pip;
-# INSTALAR PYTHON3 VENV
-sudo apt-get install python3-venv;
 # KDENLIVE
 sudo apt-get install kdenlive;
 # GOOGLE CHROME
