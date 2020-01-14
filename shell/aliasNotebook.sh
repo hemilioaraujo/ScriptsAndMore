@@ -25,3 +25,6 @@ sudo echo "alias gitck='git checkout';" >> "/etc/bash.bashrc";
 
 # ALIAS DJANGO/PYTHON
 sudo echo "alias pymg='python manage.py';" >> "/etc/bash.bashrc";
+
+# ALIAS VENV
+sudo echo "alias srcv='source venv/bin/activate';" >> "/etc/bash.bashrc";
