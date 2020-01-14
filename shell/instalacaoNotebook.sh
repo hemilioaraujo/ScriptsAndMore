@@ -28,6 +28,8 @@ sudo apt-get install python3-tk;
 pip3 install --upgrade pip;
 # INSTALAR PYTHON3 VENV
 sudo apt-get install python3-venv;
+# SQLITEBROWSER
+sudo apt-get install sqlitebrowser;
 # KDENLIVE
 sudo apt-get install kdenlive;
 # GOOGLE CHROME
