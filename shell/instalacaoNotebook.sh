@@ -59,6 +59,8 @@ sudo apt-get install bluetooth bluez bluez-tools rfkill -y;
 sudo apt-get install blueman -y && blueman-manager;
 # TELEGRAM
 sudo apt-get install telegram-desktop;
+# ANKI
+sudo apt-get install anki;
 # ZOOM - vídeo conferência
 sudo apt-get install zoom;
 #INSTALAR WoeUSB - CRIADOR PENDRIVE BOOTAVEL WINDOWS
