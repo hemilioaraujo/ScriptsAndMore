@@ -28,3 +28,6 @@ sudo echo "alias pymg='python manage.py';" >> "/etc/bash.bashrc";
 
 # ALIAS VENV
 sudo echo "alias srcv='source venv/bin/activate';" >> "/etc/bash.bashrc";
+
+#ALIAS ANDROID-STUDIO
+sudo echo "alias android='/usr/local/android-studio/bin/./studio.sh';" >> "/etc/bash.bashrc";
