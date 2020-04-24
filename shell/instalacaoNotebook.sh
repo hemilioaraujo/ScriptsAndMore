@@ -54,6 +54,8 @@ sudo apt install oracle-java13-set-default;
 sudo apt-get install ubuntu-restricted-extras;
 # UBUNTU TWEAK
 sudo apt install gnome-tweak-tool;
+# GNOME SUSHI
+sudo apt install gnome-sushi;
 # PACOTES E GERENCIADORES BLUETOOTH
 sudo apt-get install bluetooth bluez bluez-tools rfkill -y;
 sudo apt-get install blueman -y && blueman-manager;
