@@ -63,6 +63,8 @@ sudo apt-get install blueman -y && blueman-manager;
 sudo apt-get install telegram-desktop;
 # ANKI
 sudo apt-get install anki;
+# TREE
+sudo apt-get install tree;
 # ZOOM - vídeo conferência
 sudo apt-get install zoom;
 #INSTALAR WoeUSB - CRIADOR PENDRIVE BOOTAVEL WINDOWS
