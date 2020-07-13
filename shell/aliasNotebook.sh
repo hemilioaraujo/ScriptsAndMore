@@ -31,3 +31,6 @@ sudo echo "alias srcv='source venv/bin/activate';" >> "/etc/bash.bashrc";
 
 #ALIAS ANDROID-STUDIO
 sudo echo "alias android='/usr/local/android-studio/bin/./studio.sh';" >> "/etc/bash.bashrc";
+
+#ALIAS XAMPP
+sudo echo "alias xampp='sudo ../../opt/lampp/./manager-linux-x64.run';" >> "/etc/bash.bashrc";
