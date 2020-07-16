@@ -1,5 +1,14 @@
+# PYCHARM
 .idea/
-venv/
-.env
+
+# SQLite
 *.sqlite3
+
+# DIRETÓRIO DE TESTES
+/teste/
+
+# VENV
+venv/
+
+# PYTHON
 __pycache__/
