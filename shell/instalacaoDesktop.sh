@@ -47,6 +47,8 @@ sudo apt install gnome-tweak-tool;
 sudo apt-get install telegram-desktop;
 # ZOOM - vídeo conferência
 sudo apt-get install zoom;
+# KAZAM
+sudo apt-install kazam -y;
 #INSTALAR WoeUSB - CRIADOR PENDRIVE BOOTAVEL WINDOWS
 sudo add-apt-repository ppa:nilarimogard/webupd8 -y;
 sudo apt-get update;

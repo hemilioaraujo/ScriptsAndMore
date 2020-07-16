@@ -67,6 +67,8 @@ sudo apt-get install anki;
 sudo apt-get install tree;
 # ZOOM - vídeo conferência
 sudo apt-get install zoom;
+# KAZAM
+sudo apt-install kazam -y;
 #INSTALAR WoeUSB - CRIADOR PENDRIVE BOOTAVEL WINDOWS
 sudo add-apt-repository ppa:nilarimogard/webupd8 -y;
 sudo apt-get update;
