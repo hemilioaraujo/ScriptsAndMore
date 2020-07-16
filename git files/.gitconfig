@@ -1,5 +1,6 @@
 [user]
-	name = HLAM
 	email = hemilioaraujo@gmail.com
+	name = HLAM
 [core]
+	editor = subl
 	excludesFile = /home/hemilio/.gitignore_global
