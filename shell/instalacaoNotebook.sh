@@ -13,6 +13,8 @@ sudo snap install pycharm-community --classic -y;
 sudo snap install code --classic -y;
 # SQLITEBROWSER
 sudo apt-get install sqlitebrowser -y;
+# DBEAVER
+sudo snap install dbeaver-ce;
 # KDENLIVE
 sudo apt-get install kdenlive -y;
 # GIT
@@ -37,7 +39,9 @@ sudo apt-get install telegram-desktop -y;
 sudo apt-get install anki -y;
 # TREE
 sudo apt-get install tree -y;
+# RAMBOX
+sudo snap install rambox;
 # REMOVENDO PACOTES DESNECESSÁRIOS
 sudo apt-get autoremove -y;
 # REINICIA
-reboot -y;
+reboot;
