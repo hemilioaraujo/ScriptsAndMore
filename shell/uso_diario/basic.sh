@@ -1,4 +1,3 @@
-!#/bin/bash
 # ATUALIZA O SISTEMA
 sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get upgrade -y && sudo apt-get autoremove -y && sudo apt-get install -y;
 # INSTALA FONTES MS
@@ -7,18 +6,8 @@ sudo apt-get install ttf-mscorefonts-installer -y;
 sudo apt-get install vlc -y;
 # INSTALA SNAP
 sudo apt-get install snap -y;
-# PYCHARM PELO SNAP
-sudo snap install pycharm-community --classic -y;
-# VISUAL STUDIO CODE PELO SNAP
-sudo snap install code --classic -y;
-# SQLITEBROWSER
-sudo apt-get install sqlitebrowser -y;
-# DBEAVER
-sudo snap install dbeaver-ce;
 # KDENLIVE
 sudo apt-get install kdenlive -y;
-# GIT
-add-apt-repository ppa:git-core/ppa -y && sudo apt-get update -y && sudo apt-get install git -y;
 # UNRAR
 sudo apt-get install unrar -y;
 # GIMP
