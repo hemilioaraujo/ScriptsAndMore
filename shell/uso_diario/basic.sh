@@ -30,6 +30,8 @@ sudo apt-get install anki -y;
 sudo apt-get install tree -y;
 # RAMBOX
 sudo snap install rambox;
+# JOPLIN
+wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash;
 # REMOVENDO PACOTES DESNECESSÁRIOS
 sudo apt-get autoremove -y;
 # REINICIA
