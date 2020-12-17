@@ -1,7 +1,7 @@
 #Mensagem d Boas Vindas:
-sudo echo "echo '   _      *** SE VOCÊ NÃO É HEMÍLIO O DEUS SUPREMO,   ***'"  >> "/etc/bash.bashrc";
-sudo echo "echo '  *v*     ***        SAIA IMEDIATAMENTE DE            ***'"  >> "/etc/bash.bashrc";
-sudo echo "echo ' /(_)\    ***        '`hostname`'            ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo '   _      ***        SE VOCÊ NÃO É HEMÍLIO,   ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo '  *v*     ***        SAIA IMEDIATAMENTE DE    ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo ' /(_)\    ***        '`hostname`'             ***'"  >> "/etc/bash.bashrc";
 sudo echo "echo '  ^ ^     ***     '`date`'        ***'"  >> "/etc/bash.bashrc";
 sudo echo "echo ' '"  >> "/etc/bash.bashrc";
 
