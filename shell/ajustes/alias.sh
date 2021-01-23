@@ -1,8 +1,8 @@
 #Mensagem d Boas Vindas:
-sudo echo "echo '   _      ***        SE VOCÊ NÃO É HEMÍLIO,   ***'"  >> "/etc/bash.bashrc";
-sudo echo "echo '  *v*     ***        SAIA IMEDIATAMENTE DE    ***'"  >> "/etc/bash.bashrc";
-sudo echo "echo ' /(_)\    ***        '`hostname`'             ***'"  >> "/etc/bash.bashrc";
-sudo echo "echo '  ^ ^     ***     '`date`'        ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo '   _      ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo '  *v*     ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo ' /(_)\    ***'"  >> "/etc/bash.bashrc";
+sudo echo "echo '  ^ ^     ***'"  >> "/etc/bash.bashrc";
 sudo echo "echo ' '"  >> "/etc/bash.bashrc";
 
 # PING UOL
@@ -24,6 +24,7 @@ sudo echo "alias gita='git add';" >> "/etc/bash.bashrc";
 sudo echo "alias gitck='git checkout';" >> "/etc/bash.bashrc";
 
 # ALIAS DJANGO/PYTHON
+# ALIAS manage.py
 sudo echo "alias pymg='python $VIRTUAL_ENV/../manage.py';" >> "/etc/bash.bashrc";
 
 # ALIAS VENV
