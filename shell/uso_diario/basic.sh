@@ -18,7 +18,7 @@ sudo add-apt-repository ppa:linuxuprising/java -y && sudo apt update -y && sudo 
 sudo apt-get install ubuntu-restricted-extras -y;
 # UBUNTU TWEAK
 sudo apt install gnome-tweak-tool -y;
-# GNOME SUSHI
+# GNOME SUSHI - PRÉ-VISUALIZAR MÍDEAS
 sudo apt install gnome-sushi -y;
 # PACOTES E GERENCIADORES BLUETOOTH
 sudo apt-get install bluetooth bluez bluez-tools rfkill -y && sudo apt-get install blueman blueman-manager -y;
@@ -32,6 +32,10 @@ sudo apt-get install tree -y;
 sudo snap install rambox;
 # JOPLIN
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash;
+# MINDER - MAPAS MENTAIS
+sudo apt-get install minder -y;
+# FLAMESHOT - PRINTSCREEN
+sudo apt-get install flameshot -y;
 # REMOVENDO PACOTES DESNECESSÁRIOS
 sudo apt-get autoremove -y;
 # REINICIA
