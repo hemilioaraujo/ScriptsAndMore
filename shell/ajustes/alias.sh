@@ -35,3 +35,6 @@ sudo echo "alias android='/usr/local/android-studio/bin/./studio.sh';" >> "/etc/
 
 #ALIAS XAMPP
 sudo echo "alias xampp='sudo ../../opt/lampp/./manager-linux-x64.run';" >> "/etc/bash.bashrc";
+
+#ALIAS GLUT C
+sudo echo "alias ccglut='cc main.cpp -lglut -lGLU -lGL && ./a.out';" >> "/etc/bash.bashrc";
