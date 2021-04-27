@@ -8,7 +8,7 @@ sudo apt-get install vlc;
 # INSTALA SNAP
 sudo apt-get install snap;
 # PYCHARM PELO SNAP
-sudo snap install pycharm-community --classic;
+sudo snap install pycharm-professional --classic;
 # VISUAL STUDIO CODE PELO SNAP
 sudo snap install code --classic;
 # INSTALA ATOM

@@ -8,7 +8,7 @@ sudo ./ides.sh;
 sudo ./pipenv.sh;
 sudo ./PyEnv.sh;
 sudo ./tools.sh;
-sudo ./postgresql.sh;
+# sudo ./postgresql.sh;
 
 # ATUALIZA O PIP
 pip install --upgrade pip;

@@ -22,6 +22,8 @@ sudo apt install gnome-tweak-tool -y;
 sudo apt install gnome-sushi -y;
 # PACOTES E GERENCIADORES BLUETOOTH
 sudo apt-get install bluetooth bluez bluez-tools rfkill -y && sudo apt-get install blueman blueman-manager -y;
+# PULSE AUDIO GERENCIADOR AUDIO
+sudo snap install pulseaudio -y;
 # TELEGRAM
 sudo apt-get install telegram-desktop -y;
 # ANKI
@@ -36,6 +38,8 @@ wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_insta
 sudo apt-get install minder -y;
 # FLAMESHOT - PRINTSCREEN
 sudo apt-get install flameshot -y;
+# THUNDERBIR
+sudo apt-get install thunderbird -y;
 # REMOVENDO PACOTES DESNECESSÁRIOS
 sudo apt-get autoremove -y;
 # REINICIA

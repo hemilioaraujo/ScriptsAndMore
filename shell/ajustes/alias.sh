@@ -6,7 +6,7 @@ sudo echo "echo '  ^ ^     ***'"  >> "/etc/bash.bashrc";
 sudo echo "echo ' '"  >> "/etc/bash.bashrc";
 
 # PING UOL
-sudo echo "alias pinguol='ping www.uol.com.br';" >> "/etc/bash.bashrc";
+sudo echo "alias pingu='ping www.uol.com.br';" >> "/etc/bash.bashrc";
 
 # ALIAS DO APT-GET
 sudo echo "alias sins='sudo apt-get install';" >> "/etc/bash.bashrc";
