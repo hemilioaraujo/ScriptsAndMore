@@ -23,7 +23,9 @@ sudo apt install gnome-sushi -y;
 # PACOTES E GERENCIADORES BLUETOOTH
 sudo apt-get install bluetooth bluez bluez-tools rfkill -y && sudo apt-get install blueman blueman-manager -y;
 # PULSE AUDIO GERENCIADOR AUDIO
-sudo snap install pulseaudio -y;
+sudo apt-get install pulseaudio -y;
+# PULSE GUI
+sudo apt-get install pavucontrol -y;
 # TELEGRAM
 sudo apt-get install telegram-desktop -y;
 # ANKI
