@@ -32,6 +32,8 @@ sudo apt-get install telegram-desktop -y;
 sudo apt-get install anki -y;
 # TREE
 sudo apt-get install tree -y;
+# DISCORD
+sudo snap install discord;
 # RAMBOX
 sudo snap install rambox;
 # JOPLIN
